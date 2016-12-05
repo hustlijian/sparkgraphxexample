@@ -18,6 +18,6 @@ Step 2: Copy the sparkgraphx-1.0.jar to the sandbox
 
 To run the  standalone :
 
-spark-submit --class solutions.FlightApp --master yarn sparkgraphx-1.0.jar
+spark-submit --class FlightApp --master yarn sparkgraphx-1.0.jar
 
 
